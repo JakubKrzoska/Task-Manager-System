@@ -1,3 +1,4 @@
+
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
@@ -25,6 +26,9 @@ The project consists of:
 * **The Basics of REST:** How to perform simple GET, POST, and DELETE operations.
 * **Frontend Services:** Using Angular Services to make HTTP calls to a backend.
 * **Project Structure:** How to organize a project that uses two completely different technologies in one place.
+
+## 📷 Screenshot
+<img width="1900" height="915" alt="taskmanager" src="https://github.com/user-attachments/assets/36f964a8-ded5-4152-9574-fdfe31adeefc" />
 
 ## 🚀 How to Run Locally
 
